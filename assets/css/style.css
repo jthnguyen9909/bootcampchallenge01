@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Header + Navigation Bar */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -42,15 +43,6 @@ body {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-
 .background-image {
   height: 800px;
   width: 100%;
@@ -60,6 +52,19 @@ p {
   background-position: center;
 }
 
+/* Links Text Styling */
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+
+
+/* Main Content Placement */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -94,6 +99,7 @@ p {
   font-size: 36px;
 }
 
+/* Benefits Side Box */
 .benefits-box {
   margin-right: 20px;
   padding: 20px;
@@ -120,6 +126,7 @@ p {
   max-width: 150px;
 }
 
+/* Footer */
 .footer {
   padding: 30px;
   clear: both;
